@@ -1,0 +1,15 @@
+[
+{
+  "modid": "buildingAndExhibitionPlotter",
+  "name": "Building & Exhibition Plotter",
+  "description": "Minecraft mod that allows players to claim building and exhibition areas on a map.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["RiskyKen"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
