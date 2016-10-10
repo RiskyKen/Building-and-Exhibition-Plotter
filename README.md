@@ -1,6 +1,3 @@
-# Building-and-Exhibition-Plotter
-
-
 Building & Exhibition Plotter
 =============================
 
